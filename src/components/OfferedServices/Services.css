@@ -1,0 +1,17 @@
+.services {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;	
+
+}
+/* 
+.services img {
+    max-width: 30%;
+} */
+
+h2 {
+    font-size: .5rem;
+    font-weight: 600;
+    line-height: 1;
+    text-align: center;
+}
